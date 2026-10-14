@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1791999372 source:c:\users\user\downloads\duplicate-check\main.cpp
+	<iostream>
+	<vector>
+
